@@ -1,80 +1,67 @@
 <div align="center">
-  <img src="readme/logo/favicon.png" />
+  <img src="docs/logo/favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
-  <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a>
 
-> Software Developer that love learn and improve your skills in programming languages like CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress), and I started learning about Python and Data Science.
+[![Resume-US](https://img.shields.io/badge/RESUME_US-3776AB?style=for-the-badge&logo=libreofficewriter&logoColor=white)](https://docs.google.com/document/d/1I8T4Mkb61NsTKN14ZbT1mnQKAc9LqiiPtgrYf9ayH1c/edit?usp=sharing)
+[![Resume-PTbr](https://img.shields.io/badge/RESUME_PT_br-007C3C?style=for-the-badge&logo=libreofficewriter&logoColor=white)](https://docs.google.com/document/d/1vnFlRP3myxexgHk5Y6XaCKQGETPQwCygPZqGSblwCXg/edit?usp=sharing)
+<br/>
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atmmoreira)
+[![GMAIL](https://img.shields.io/badge/Gmail-EE2624?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atmmoreira.rj@gmail.com?subject=From%20GitHub&cc=atmmoreira.rj@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![WHATSAPP](https://img.shields.io/badge/Whatsapp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521992890362)
 
 </div>
-<br >
-<!-- References for Create budgets :: https://shields.io/category/build -->
-<div align="center">
-  <!-- <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=tomato"/> -->
-  <img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=darkgreen"/>
-  <!-- <img src="https://img.shields.io/static/v1?label=CSS&message=3.0&color=blue"/> -->
-  <img src="https://img.shields.io/static/v1?label=TailwindCSS&message=3.0&color=purple"/>
-  <!-- <img src="https://img.shields.io/static/v1?label=Bootstrap&message=5.3.x&color=DeepPink"/> -->
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=yellow"/>
-  <!-- <<img src="https://img.shields.io/static/v1?label=TypeScript&message=5.7&color=darkgray"/>
-  <img src="https://img.shields.io/static/v1?label=Node&message=22.14.0&color=green"/>
-  <img src="https://img.shields.io/static/v1?label=Nest.js&message=11.0.10&color=brown"/> -->
-  <img src="https://img.shields.io/static/v1?label=React&message=18.2.0&color=darkblue"/>
-  <!-- <img src="https://img.shields.io/static/v1?label=Next.js&message=15.1.7&color=black"/>
-  <img src="https://img.shields.io/static/v1?label=PHP&message=8.4&color=lightblue"/>
-  <img src="https://img.shields.io/static/v1?label=Laravel&message=11&color=red"/>
-  <img src="https://img.shields.io/static/v1?label=WordPress&message=6.7.2&color=darkcyan"/>  -->
-</div>
 
-<br >
+## Descriptions
 
-## Description
 This is a project to improve my skills with React 18.2.0, React Router DOM, Firebase, FireBase Store and Authentication. Building a House Marketplace Project. See the [DEMO](https://house-marketplace-react-eight.vercel.app/).
 
-## *Attention*
+## Images and Descriptions of Screens
+
+- HomePage 
+  ![New Layout](./docs/layout/layout.png)
+
+## _Attention_
+
 > To see this project working well, create a new account for test in Google Console, to working with the API for Geolocation. And Generate a new GEOCODE_KEY.
 
-## Screens Layout
-<div align="center">
-  <img src="readme/layout/layout.png" alt="Login"/>
-</div>
+## Technologies
 
-<br >
+<!--
+References for Create budgets :: https://shields.io/category/build
+Icons: https://simpleicons.org/
+-->
 
-## Programming Languages and Frameworks.
-```bash
-# HTML5 / CSS3
-# Javascript
-# Git / Github
-# React 18.2.0
-# FireBase Store
-# Authentication with Google
-# React Router DOM
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<br >
+### Frameworks and Libraries
 
-## System Requirements
-```bash
-# Git
-# Node
-# Vite
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br >
+### Tools
 
-## Installing and run the project
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Database
+
+![Firebase](https://img.shields.io/badge/Firebase-FFDB1E?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Running the project
 
 ```bash
-# Step 01 
-# Download or clone the repository. 
+# Download or clone the repository.
 
-# Step 02 
-# Open the project inside your favorite IDE (I use VSCode). 
+# Open the project inside your favorite:
+I use Visual Studio Code
 
-# Step 03
-# Type in the terminal: 'npm i', to install dependencies.
+# To install dependencies of this project, type in the terminal:
+`npm install`
 
-# Step 04
-# Type in the terminal: 'npm run dev', to compile the project. In your favorite Browser, open this URL: http://localhost:5173/ to see the Interface.
+# To run this project, type in the terminal:
+`npm run start`
 
+# In your favorite Browser, open this URL, to see the Interface.
+http://localhost:5173/
 ```
