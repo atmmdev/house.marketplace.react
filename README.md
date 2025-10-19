@@ -11,13 +11,19 @@
 
 </div>
 
+<div align="center">
+
+![COMPLETE](https://img.shields.io/badge/COMPLETE-7ED321?style=for-the-badge&logo=cachet&logoColor=white)
+
+</div>
+
 ## Descriptions
 
 This is a project to improve my skills with React 18.2.0, React Router DOM, Firebase, FireBase Store and Authentication. Building a House Marketplace Project. See the [DEMO](https://house-marketplace-react-eight.vercel.app/).
 
 ## Images and Descriptions of Screens
 
-- HomePage 
+- HomePage
   ![New Layout](./docs/layout/layout.png)
 
 ## _Attention_
